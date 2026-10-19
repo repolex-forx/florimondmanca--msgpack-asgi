@@ -1,0 +1,7 @@
+[2026-10-19T12:50:05Z] === AST ITERATION 1 START | repo=florimondmanca/msgpack-asgi sha=2875e1f0 ===
+[2026-10-19T12:50:05Z] [iter=1] PHASE START: ast repo=florimondmanca/msgpack-asgi sha=2875e1f0
+[2026-10-19T12:50:05Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T12:50:06Z] [iter=1] AST chunks built count=1 triples=23474
+[2026-10-19T12:50:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2875e1f0a0d96b7c2281c8903f1184589016e706/.complete
+[2026-10-19T12:50:06Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-19T12:50:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
