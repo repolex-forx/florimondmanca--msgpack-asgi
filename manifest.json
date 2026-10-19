@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "florimondmanca",
+  "repo": "msgpack-asgi",
+  "versions": [
+    {
+      "commit": "2875e1f0a0d96b7c2281c8903f1184589016e706",
+      "parsed_at": "2026-10-19T12:48:36.718116+00:00",
+      "filetree": "filetree/2875e1f0a0d96b7c2281c8903f1184589016e706.nq.gz",
+      "blobs": [
+        "blob/b9ba97a219dd3ca89e49548a00a8f228af4d7937.nq.gz",
+        "blob/6831c49139c14925ca3a82a4bf2143c98ea771e0.nq.gz",
+        "blob/41ed33bf71f7e1ec48d44cb40ed3919a9fd70947.nq.gz",
+        "blob/22a5feb42e77ed3abaf33b060aa93ba02af28596.nq.gz",
+        "blob/0cd42f0837f98b7f5a1138e213c5226d9d99ab3b.nq.gz",
+        "blob/05e6f770362bdd888365c9d99285b70041672930.nq.gz",
+        "blob/405f33e98e0e5cfd13d7acd8a88dd467687779a5.nq.gz",
+        "blob/bd33b5cf1a2a124793f9125b3ff458480ee6ae56.nq.gz",
+        "blob/17d2f08e89927816c90b689403e2de74d56a9c38.nq.gz",
+        "blob/274cdf93d76b0fda75f1b760e061ffcc0470d954.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ba0b39ddcd10fa8812e528e4137dcb7e1b1a6e5d.nq.gz",
+        "blob/2d5f90aad7e7cee6749a2acbfd44e772e44c9b17.nq.gz",
+        "blob/51d2f7eda54d5abaf0fee4a1ea139f1481b1020b.nq.gz",
+        "blob/2b831ff3ddb984138afd96a53e859ed10ba0e7df.nq.gz",
+        "blob/a0fb3d75c5f70ab12fab876eeefb4622277aaa45.nq.gz",
+        "blob/09bffe5b765dcdb86be1b5d9be0f2b8011b17650.nq.gz",
+        "blob/38f38b101b9de4bb3017493dfd0b15752e91f1f9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
