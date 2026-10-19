@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "msgpack-asgi",
+  "versions": [
+    {
+      "commit": "2875e1f0a0d96b7c2281c8903f1184589016e706",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:51:14.960584+00:00"
+    }
+  ]
+}
